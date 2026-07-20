@@ -4,7 +4,7 @@
 
 - 🔭 Hoje Trabalho com qualidade
 - 🌱 Estudando C# .NET
-- 😄 Pronouns: Ele / Dele
+- 😄 Analista de sistemas 
 
 
 
